@@ -1,4 +1,4 @@
-# Day 2 of Python Learning 🚀
+# Python Learning 🚀
 Built an IoT Device Health Monitoring mini-project that dynamically takes user input, analyzes, and gives a full report.
 
 ## Features
